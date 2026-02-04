@@ -1,5 +1,5 @@
 # About Me
-I am a frontend developer specializing in building modern, high-performance web applications using React.js, Tailwind CSS, GSAP animations, and Next.js. I am passionate about creating interactive UI experiences and turning ideas into smooth, responsive, and visually appealing websites.  
+I am a frontend developer specializing in building modern, high-performance web applications using React.js, Tailwind CSS, GSAP animations. I am passionate about creating interactive UI experiences and turning ideas into smooth, responsive, and visually appealing websites.  
 
 I am actively learning advanced frontend techniques, performance optimization, and industry-standard best practices to level up as a professional frontend developer.  
 
