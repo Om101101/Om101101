@@ -1,100 +1,173 @@
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-# 👋 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Om%20Jaiswal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20%7C%20Full-Stack%20Web%20Developer&descSize=20&descAlignY=58" alt="header" />
 
-I'm a **BCA graduate and Web Developer** with hands-on experience in building modern, responsive, and dynamic web applications. I specialize in frontend development using **React.js, JavaScript, Tailwind CSS, and GSAP**, along with practical experience in **PHP, MySQL, WordPress, and Shopify**.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Web+Developer+%40+W3SAS;React+%7C+GSAP+%7C+Tailwind+CSS;PHP+%7C+MySQL+%7C+WordPress+%7C+Shopify;Building+animation-rich+websites+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-Currently, I'm working as a **Web Development Intern at W3SAS**, where I contribute to multiple live client projects across different industries, including news, healthcare, restaurants, and e-commerce.
+<br/>
 
-My experience includes:
-- Developing and customizing responsive frontend interfaces.
-- Building dynamic PHP-based website components.
-- Integrating MySQL database-driven content.
-- Working with WordPress, WooCommerce, and Shopify websites.
-- Customizing website functionality, forms, plugins, and integrations.
-- Debugging website issues and maintaining live client projects.
+<img src="https://komarev.com/ghpvc/?username=Om101101&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+<img src="https://img.shields.io/github/followers/Om101101?label=Followers&style=flat&logo=github" alt="followers" />
+<img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=flat" alt="open to work" />
 
-I also use AI-powered tools like **ChatGPT and Claude** for coding assistance, debugging, and improving development workflows.
-
-🚀 **Currently Learning:** Advanced frontend development, modern web technologies, performance optimization, and full-stack development.
-
-🤝 **Open to:** Frontend development, PHP development, WordPress projects, creative portfolios, animation-rich websites, and collaborative web development opportunities.
+</div>
 
 ---
 
-## 🌐 Socials
+## 👋 About Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/omjaiswal0393)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-jaiswal-834985285)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jom15718Jaiswal)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jom15718@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Om101101)
+I'm a **BCA graduate and Web Developer** who builds modern, responsive and dynamic web applications. I specialize in frontend with **React.js, JavaScript, Tailwind CSS and GSAP**, backed by practical experience in **PHP, MySQL, WordPress and Shopify**.
+
+Currently a **Web Development Intern at W3SAS**, working on live client projects across news, healthcare, restaurants and e-commerce.
+
+```js
+const om = {
+  role: "Web Development Intern @ W3SAS",
+  location: "Lucknow, India 🇮🇳",
+  focus: ["React", "GSAP animations", "Full-stack", "Performance"],
+  learning: ["Advanced frontend", "Modern web tech", "Performance optimization"],
+  openTo: ["Frontend", "PHP", "WordPress", "Creative portfolios", "Collabs"],
+  funFact: "I debug with coffee and AI pair-programming ☕🤖",
+};
+```
+
+### What I do day-to-day
+- 🎨 Build and customize responsive frontend interfaces
+- ⚙️ Develop dynamic PHP components with MySQL-driven content
+- 🛒 Work with WordPress, WooCommerce and Shopify sites
+- 🔌 Customize forms, plugins and integrations
+- 🐞 Debug and maintain live client projects
+- 🤖 Use **ChatGPT & Claude** to speed up coding and debugging
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/om-jaiswal-834985285"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Jom15718Jaiswal"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://discord.gg/omjaiswal0393"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:jom15718@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Om101101"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-### Frontend Development
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+**Frontend**
 
-### Backend & Database
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,vite&theme=dark" />
 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend & Database**
 
-### CMS & E-commerce
+<img src="https://skillicons.dev/icons?i=php,mysql,nodejs,express,mongodb&theme=dark" />
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+**CMS & E-commerce**
 
-### Tools & AI
+<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+**Animation & 3D**
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=threejs&theme=dark" />
+
+**Tools & AI**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤝 **[SkillSwap](https://github.com/Om101101/SkillSwap)** | Peer-to-peer skill exchange platform with real-time chat | MongoDB, Express, React, Node |
+| 🖼️ **[Pixlify](https://github.com/Om101101/AI-Powered-Image-Enhancer)** | AI image enhancement app with a dark cinematic UI | React, Tailwind |
+| 🎬 **[SCSDB](https://github.com/Om101101/SCSDB)** | Movie & streaming frontend powered by the TMDB API | React, Vite |
+| 🌐 **[Portfolio](https://github.com/Om101101)** | Dark, cinematic, editorial-style personal site | React, GSAP |
+
+> 💡 Repo names/links apne actual GitHub repos ke hisaab se adjust kar lena.
+
+You can also pin repos as cards like this (replace `repo=`):
+
+```md
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Om101101&repo=YOUR_REPO&theme=tokyonight&hide_border=true)](https://github.com/Om101101/YOUR_REPO)
+```
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Om101101&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Om101101&theme=default&hide_border=false&layout=compact)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Om101101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om101101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Om101101&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om101101&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Om101101/Om101101/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Om101101/Om101101/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Om101101/Om101101/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Om101101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Om101101&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
 
 ---
 
-## 💡 Random Dev Quote
+## 💬 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔥 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Om101101&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 ---
 
-## 👀 Profile Visitors
+<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Om101101&icon=6&color=0)](https://visitcount.itsvg.in)
+### 🤝 Let's build something awesome together!
+
+<img src="https://img.shields.io/badge/Open%20to-Frontend%20%7C%20PHP%20%7C%20WordPress%20%7C%20Creative%20Portfolios-blueviolet?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
+
+</div>
