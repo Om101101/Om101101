@@ -26,7 +26,7 @@ As a **PHP Developer & Web Developer**, I'm focused on building responsive, dyna
 
 🚀 [Check out my GitHub Projects](https://github.com/Om101101)
 
-💼 [Connect with me on LinkedIn](https://linkedin.com/in/omjaiswal)
+💼 [Connect with me on LinkedIn]([https://linkedin.com/in/omjaiswal](https://www.linkedin.com/in/om-jaiswal-834985285)
 
 ### 💬 **Ask me about**
 
@@ -45,7 +45,7 @@ PHP, JavaScript, React.js, WordPress, Shopify, WooCommerce, HTML, CSS, MySQL, an
   <a href="https://github.com/Om101101" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/omjaiswal" target="_blank">
+  <a href="[https://linkedin.com/in/omjaiswal](https://www.linkedin.com/in/om-jaiswal-834985285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -231,7 +231,7 @@ I believe in learning by building, solving real-world problems, and continuously
 
 I'm always open to connecting with developers, collaborating on interesting projects, and exploring new opportunities in web development.
 
-- 💼 [LinkedIn](https://linkedin.com/in/omjaiswal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/om-jaiswal-834985285/)
 - 🐙 [GitHub](https://github.com/Om101101)
 
 Let's build something amazing together! 💻✨
