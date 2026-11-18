@@ -227,13 +227,9 @@ I believe in learning by building, solving real-world problems, and continuously
 
 **Learn. Build. Improve. Repeat.** 🚀
 
-### 🤝 Let's Connect!
+### Let's Connect 🤝:
+Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖, **DevOps** ⚙️, or **web development** 🌐. Let’s make something amazing together! 🚀
 
-I'm always open to connecting with developers, collaborating on interesting projects, and exploring new opportunities in web development.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/om-jaiswal-834985285/)
-- 🐙 [GitHub](https://github.com/Om101101)
-
-Let's build something amazing together! 💻✨
+![GitHub GIF](githubgif.gif)
 
 ---
