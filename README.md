@@ -1,102 +1,187 @@
-<h1 align="center" style="color: #FF69B4;">Hey there! 👋 I'm Abres Siddique</h1>  
-<h3 align="center" style="color: #1E90FF;">✨ A passionate Project Manager & AI Researcher from India 🇮🇳🌍</h3>
-
-![Header Image](https://github.com/abressiddique/abressiddique/blob/main/github-header-image%20(4).png)
+<h1 align="center" style="color: #FF69B4;">Hey there! 👋 I'm Om Jaiswal</h1>  
+<h3 align="center" style="color: #1E90FF;">💻 Aspiring Full Stack Developer | PHP | WordPress | React.js 🇮🇳</h3>
 
 ---
 
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Learning-brightgreen" alt="DevOps Badge" />
+ 
   <img src="https://img.shields.io/badge/MERN-Stack-ff69b4" alt="MERN Badge" />
-  <img src="https://img.shields.io/badge/Next.js-React-blue" alt="Next.js Badge" />
-  <img src="https://img.shields.io/badge/DSA-Data_Structures-ff4500" alt="DSA Badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+ 
 </p>
 
 ---
 
 ### 🌱 Current Focus
 
-As a **Project Manager**, I'm passionate about delivering successful software projects while researching **Multi-Agent AI Systems** for next-generation AI applications.
+As a **PHP Developer & Web Developer**, I'm focused on building responsive, dynamic, and user-friendly web applications. Currently exploring **React.js, MERN Stack, WordPress, Shopify, and modern web technologies** to enhance my development skills.
 
 ### 👨‍💻 **Projects**
-🚀 [Check out my portfolio](https://abressiddique.github.io/Abress-AR/)  
+
+🚀 [Check out my GitHub Projects](https://github.com/Om101101)
+
+💼 [Connect with me on LinkedIn](https://linkedin.com/in/omjaiswal)
 
 ### 💬 **Ask me about**
-MERN Stack, Next.js, Data Structures & Algorithms.  
+
+PHP, JavaScript, React.js, WordPress, Shopify, WooCommerce, HTML, CSS, MySQL, and Frontend Development.
 
 ### 📫 **Get in Touch**
-[Email Me](mailto:abressiddique@gmail.com)  
+[Email Me](mailto:jom15718@gmail.com)  
 
 ### 📄 **My Resume**
-📝 [View Here](https://drive.google.com/file/d/1BcUv17XnOohlneUVyaQKl_YghffMnrRz/view?usp=sharing)  
+📝 [View Here]([https://drive.google.com/file/d/1BcUv17XnOohlneUVyaQKl_YghffMnrRz/view?usp=sharing](https://drive.google.com/file/d/1ExzYdy9gPioe_FLIXjjARCgZYLsix3Qe/view?usp=drive_link))  
 
 ---
 
-<h3 align="left" style="color: #FF4500;">🔗 Let's Connect!</h3>
+<h3 align="left">🔗 Let's Connect!</h3>
 <p align="left">
-  <a href="https://x.com/AbresSiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/abressiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/abresstore/?igsh=MTNqcjlmeXYybTczNQ%3D%3D#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/abressiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/abressiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://github.com/Om101101" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/omjaiswal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
-
 ---
+
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
+
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+
+  <!-- Programming Languages -->
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  </a>
+
+  <!-- Frontend Development -->
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+  </a>
+  <a href="https://greensock.com/gsap/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40" height="40" alt="GSAP"/>
+  </a>
+
+  <!-- Backend Development -->
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+  </a>
+
+  <!-- CMS & E-commerce -->
+  <a href="https://wordpress.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress"/>
+  </a>
+  <a href="https://elementor.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/elementor/92003B" width="40" height="40" alt="Elementor"/>
+  </a>
+  <a href="https://woocommerce.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/woocommerce/96588A" width="40" height="40" alt="WooCommerce"/>
+  </a>
+  <a href="https://www.shopify.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/shopify/7AB55C" width="40" height="40" alt="Shopify"/>
+  </a>
+
+  <!-- Database -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  </a>
+
+  <!-- Tools & Platforms -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
+  </a>
+  <a href="https://www.apachefriends.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="XAMPP / Apache"/>
+  </a>
+
+  <!-- Design & Creative Tools -->
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" height="40" alt="Canva"/>
+  </a>
+  <a href="https://www.photopea.com/" target="_blank">
+    <img src="https://www.photopea.com/promo/icon512.png" width="40" height="40" alt="Photopea"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" height="40" alt="Adobe Photoshop"/>
+  </a>
+
+  <!-- Hardware & Electronics -->
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.simpleicons.org/arduino/00878F" width="40" height="40" alt="Arduino"/>
+  </a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project%20Management-Agile%20Delivery-blueviolet" />
-  <img src="https://img.shields.io/badge/MERN-Full%20Stack-ff69b4" />
-  <img src="https://img.shields.io/badge/Next.js-Production%20Apps-black" />
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange" />
-  <img src="https://img.shields.io/badge/DevOps-Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/PHP-Web%20Development-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shopify-E--Commerce-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MERN-Stack-ff69b4?style=for-the-badge"/>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Web%20Development-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-E--Commerce-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-E--Commerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN-Stack-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Development-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 
@@ -106,23 +191,49 @@ MERN Stack, Next.js, Data Structures & Algorithms.
 
 ### 🌟 About Me 🌟
 
-Hello! I'm **Abres Siddique**, a passionate **Project Manager & Full-Stack Developer** 💻 with a love for technology that started in **10th grade**. I completed my **BSc in IT** at Mahendra Pratap Sharada Prasad Singh College, ranking **1st in my class**, where I specialized in **MERN stack development**. To further advance my expertise, I earned an **MCA** from LATE BHAUSAHEB HIRAY S.S. Trust’s Institute of Computer Application, one of Maharashtra’s top-tier institutions. Currently, I’m pursuing a **PhD in Multi-Agent AI Systems**, exploring cutting-edge AI solutions for real-world projects.
+Hello! I'm **Om Jaiswal**, a passionate **PHP Developer & Web Developer** from **Lucknow, India** 🇮🇳. I hold a **Bachelor of Computer Applications (BCA)** degree from Era University, where I built a strong foundation in programming, web development, and software technologies.
 
-With **6+ years of experience**, I’ve led **full-stack development and end-to-end projects** across **e-commerce, business systems, and technology platforms**. I bring a strong combination of technical expertise and strategic vision to every project I manage. My **core tech stack** includes **MERN, Next.js, and Python**, and I actively engage with **DevOps practices and AI research** to ensure scalable, efficient, and innovative solutions. Ranked in the **Top 1K globally on LeetCode** with **2206+ problems solved**, I leverage analytical and problem-solving skills to drive successful project execution and team performance.
+I'm passionate about creating modern, responsive, and user-friendly websites and web applications. I have professional internship experience working with **PHP, WordPress, Shopify, and WooCommerce**, where I've gained practical experience in website development, customization, maintenance, and e-commerce solutions.
 
-I’ve authored **peer-reviewed research papers** on **Quantum Computing** and the impact of **AI/ML in IT**, bridging academic insights with practical technology strategy. This research mindset enhances my ability to make data-driven decisions and innovate in complex projects.
+My technical interests span both frontend and backend development. My core tech stack includes **PHP, JavaScript, HTML5, CSS3, React.js, MySQL, and WordPress**. I'm also familiar with **Node.js, Express.js, MongoDB, Redux, and the MERN stack**.
 
-Beyond technology, I am the **co-founder of @AbresStore**, a **women’s clothing brand** operating across India and exporting to the Middle East. I’ve led all **technology, project management, and operational initiatives**, ensuring projects are delivered efficiently, teams are aligned, and the brand maintains a strong digital presence.
+I enjoy working on real-world projects, solving technical challenges, exploring new technologies, and continuously improving my development skills. I also have experience with tools and platforms like **Git, GitHub, VS Code, Postman, Elementor, Canva, and cPanel**.
 
-I thrive on **strategic problem-solving, team leadership, and continuous improvement**, always looking for ways to optimize processes and achieve impactful results. My motto is simple—**Plan. Execute. Evolve.** 🚀
+### 💻 What I Do
 
-### Education 🎓:
-- **BSc IT** & **MCA** – Formal education in **Information Technology**.
-- **Currently pursuing my Ph.D.** with a focus on **AI**.
+- 🌐 Develop and customize websites using PHP and WordPress.
+- 🛒 Build and manage e-commerce websites using Shopify and WooCommerce.
+- ⚡ Create responsive and interactive frontend experiences.
+- 🔧 Work with databases, APIs, and backend functionality.
+- 🎨 Customize website layouts, themes, plugins, and UI components.
+- 🚀 Explore full-stack development and build personal projects.
 
-### Let's Connect 🤝:
-Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖, **DevOps** ⚙️, or **web development** 🌐. Let’s make something amazing together! 🚀
+### 🎓 Education
 
-![GitHub GIF](githubgif.gif)
+- **Bachelor of Computer Applications (BCA)** – Era University, Lucknow.
+- **Graduation:** 2023 – 2026.
+
+### 🌱 Currently Learning
+
+- Advanced PHP & Backend Development.
+- React.js and modern frontend development.
+- MERN Stack Development.
+- REST APIs and Database Management.
+- Building scalable and practical web applications.
+
+### 🚀 My Development Philosophy
+
+I believe in learning by building, solving real-world problems, and continuously improving my skills. Every project is an opportunity to learn something new and create something meaningful.
+
+**Learn. Build. Improve. Repeat.** 🚀
+
+### 🤝 Let's Connect!
+
+I'm always open to connecting with developers, collaborating on interesting projects, and exploring new opportunities in web development.
+
+- 💼 [LinkedIn](https://linkedin.com/in/omjaiswal)
+- 🐙 [GitHub](https://github.com/Om101101)
+
+Let's build something amazing together! 💻✨
 
 ---
